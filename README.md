@@ -23,6 +23,11 @@ Import statement
 ```dart
 import 'package:card_banner/card_banner.dart'
 ```
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/45100807/205489258-8d06faa3-c101-45ba-a33c-4bb24073de24.png" width="280" height="600">
+
+
 
 ## Usage
 
@@ -74,4 +79,4 @@ class MyBanner extends StatelessWidget {
 
 ## Additional information
 
-Check the [example project](https://github.com/abhishek-900/card_banner/example) on github for advanced usage.
+Check the [example project](https://github.com/abhishek-900/card_banner/tree/master/example) on github for advanced usage.
