@@ -13,7 +13,7 @@ It is simple to add a banner to any widget using card banner.
 Add this line to your pubspec.yaml under the dependencies:
 ```dart
 dependencies:
-    card_banner: ^0.0.1
+    card_banner: <latest-version>
 ```
 alternatively, you can use this command:
 ```dart
